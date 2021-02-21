@@ -1,0 +1,35 @@
+.logo{
+   color:#26e4e4
+}
+.title{
+    height: 70%;
+    width: 120px;
+    border-radius: 10px/10px;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(
+      to right, rgb(194, 255, 182),
+      rgb(255, 163, 182), rgb(221, 169, 255),
+      rgb(162, 209, 255));
+    opacity: 1;
+    z-index: 2;
+
+}
+.text{
+    color: silver;
+    opacity: .75;
+    font-size: 1.6em;
+    letter-spacing: 0;
+}
+.head{
+    background: #022C52;
+    position: relative;
+    background-image: url(https://www.pngarts.com/files/2/Black-Abstract-Lines-PNG-Free-Download.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 15px;
+  
+}

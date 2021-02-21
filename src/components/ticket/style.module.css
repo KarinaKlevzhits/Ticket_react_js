@@ -1,0 +1,8 @@
+.grid {
+    width: 60vw;
+    height: 50vh;
+    background-color: indigo;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 15% 85%;
+}

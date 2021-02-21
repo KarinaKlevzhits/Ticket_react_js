@@ -1,0 +1,8 @@
+.code {
+    background-color: green;
+    height: 100%;
+    width: 100%;
+    font-family: 'Libre Barcode 39', cursive;
+    font-size: 1em;
+    letter-spacing: -.5px;
+}
